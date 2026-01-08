@@ -23,6 +23,11 @@ public class methodOverloading {
         System.out.println(result1);
         System.out.println(result2);
 
+        
+
+        StringBuilder sb1 = new StringBuilder("ayush"); 
+        System.out.println(sb1);
+
 
 
         
