@@ -31,6 +31,7 @@ public class thisKeyword {
     public static void main(String[] args) {
         Sample s = new Sample(12 , "ayush" , true ); 
         s.run(); 
+        s.run(); 
         
     }
     
