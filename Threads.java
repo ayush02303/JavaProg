@@ -21,5 +21,6 @@ public class Threads {
 
         obj.start();
         obj2.start();
+        // object 2
     }
 }
